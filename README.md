@@ -1,2 +1,2 @@
 Click on the following link to play the drum :
-https://github.com/mrf1799/Drum-Kit-Play
+https://mrf1799.github.io/Drum-Kit-Play/
